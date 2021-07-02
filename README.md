@@ -18,5 +18,7 @@
 
 Да, для работы скетча, надо скачать библиотеку от Амперки: https://github.com/amperka/QuadDisplay2
 
+Отдельное спасибо Семёнову Александру за консультирование по работе кода.
+
 Принципиальная схема устройства
 ![Schematic_Ketroel_stand_discharge_01_2021-07-02 (1)](https://user-images.githubusercontent.com/35781312/124237677-726b4080-db20-11eb-9c90-70f249b5b07d.png)
