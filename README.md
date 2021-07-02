@@ -1,4 +1,4 @@
-# RazryadkaInator_01
+# RazryadkaInator
 
 Создатель проекта - Созаев Заурбек aka Ketroel.
 
